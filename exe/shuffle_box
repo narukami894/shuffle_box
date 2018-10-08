@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require "shuffle_box"
+
+ShuffleBox::CLI.start
